@@ -1,4 +1,4 @@
-                                             Hi 👋, I'm Samin Thapa Kshetry, a Full-stack Developer.
+                                             Hi 👋, I'm Samin Thapa Kshetry, a Website Developer.
 
 - 👀 I’m interested in Website and App Development.
 - 🌱 I’m currently learning Dart, Flutter.
