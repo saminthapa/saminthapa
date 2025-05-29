@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4MDfzNWwiVo46u0wXqjL8xYnfimBQho14EeQn-5VyGKWA0oXNdygRzl4&s">
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **LARAVEL**
 
 - 👨‍💻 All of my projects are available at [https://www.saminthapa.com.np/](https://www.saminthapa.com.np/)
 
